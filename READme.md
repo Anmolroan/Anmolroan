@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/anmolcoder" target="blank"><img src="https://img.shields.io/twitter/follow/anmolcoder?logo=twitter&style=for-the-badge" alt="anmolcoder" /></a> </p>
 
-- 🔭 I’m currently working on **Linkedin clone**
+- 🔭 I’m currently working on **Instagram clone**
 
 - 🌱 I’m currently learning **Typescript**
 
@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **anmol.kumar@masaischool.com**
 
-- ⚡ Fun fact **I am postgraduate in History.**
+- ⚡ Fun fact **I am Postgraduate in History.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
