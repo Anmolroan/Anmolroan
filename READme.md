@@ -14,7 +14,7 @@
 - 💬 Ask me about **MERN Stack,Fastify,Nest.js,Postgresql,DSA**
 
 - 📫 How to reach me **aakaroan@gmail.com**
-- 📫 Check My resume at **https://drive.google.com/file/d/1mguh8pilWaN8t7ZlYindvnOxXnJf6mHN/view?usp=share_link**
+- 📫 Check My resume at **https://drive.google.com/file/d/1eNzZEiya8tnYH8F4eO9JPL7Z9UtKYXF6/view?usp=share_link**
 
 - ⚡ Fun fact **I am Postgraduate in History.**
 
